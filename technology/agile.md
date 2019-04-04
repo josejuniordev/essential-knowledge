@@ -6,3 +6,6 @@
 - [ScrumSutdy](https://www.scrumstudy.com/)
 - [Guia do Scrum](https://www.scrum.org/resources/scrum-guide)
 
+### LEAN
+- [Lean Brasil](https://www.lean.org.br/o-que-e-lean.aspx)
+- [7 principios do lean](https://www.profissionaisti.com.br/2013/11/os-7-principios-do-desenvolvimento-lean-de-software/)
