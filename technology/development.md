@@ -11,3 +11,7 @@
 ### Semântica HTML
 - [Semântica/HTML5](http://www.josejunior.com.br/category/web-semantica/)
 - [Maujor](https://www.maujor.com/tutorial/escrevendo-html-semantico.php)
+
+### Javascript
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [W3S](https://www.w3schools.com/js/)
