@@ -10,3 +10,4 @@ Vamos te mostrar o caminho das pedras; Trilha-lo? Dependerá exclusivamente de v
 - [Desenvolvimento](/technology/development.md)
 - [Design](/technology/design.md)
 - [DevOps](/technology/devops.md)
+- [Agile](/technology/agile.md)
