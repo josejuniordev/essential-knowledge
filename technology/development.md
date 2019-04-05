@@ -24,3 +24,5 @@
 ### Javascript
 - [MDN (Mozilla Developer Network)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [W3S Javascript](https://www.w3schools.com/js/)
+- [Nodejs](https://nodejs.org/en/docs/)
+- [Jquery](https://api.jquery.com/)
